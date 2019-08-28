@@ -1,0 +1,11 @@
+.caja{
+    background-color: #51dacf;
+    width:600px;
+    height:100px;
+    padding: 20px;
+    border:3px solid #41aaa8;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-right: auto; /* centrar con respecto a los lados */
+    margin-left: auto;  /* para que esto funcione el elemento debe tener un ancho */
+}
