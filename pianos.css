@@ -3,8 +3,8 @@ body{
 }
 
 td{
+    height: 300px;
     width: 500px;
-    height: 500px;
 }
 
 .TR{
