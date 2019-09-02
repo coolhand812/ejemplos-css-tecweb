@@ -6,8 +6,12 @@ body{
     background-color: white;
 }
 
+img{
+    border-radius: 10px;
+}
+
 td{
-    height: 200px;
+    height: 90px;
 }
 
 .im{
@@ -15,8 +19,18 @@ td{
     width: 250px;
 }
 
+.mid{
+    width: 700px;
+    vertical-align: text-top;
+    text-align: left;
+    padding: 50px;
+}
+
 .price{
     width: 250px;
+    vertical-align: text-top;
+    text-align: left;
+    padding: 50px;
 }
 
 .TR{
