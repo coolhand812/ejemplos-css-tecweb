@@ -8,11 +8,15 @@ body{
 
 td{
     height: 200px;
-    width: 500px;
 }
 
 .im{
     text-align: center;
+    width: 250px;
+}
+
+.price{
+    width: 250px;
 }
 
 .TR{
