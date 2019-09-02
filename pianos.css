@@ -1,9 +1,13 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 body{
     background-color: white;
 }
 
 td{
-    height: 300px;
+    height: 200px;
     width: 500px;
 }
 
