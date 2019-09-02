@@ -7,6 +7,10 @@ td{
     width: 500px;
 }
 
+.im{
+    text-align: center;
+}
+
 .TR{
     font-family: Arial, Helvetica, sans-serif;
     color: #3e64ff;
