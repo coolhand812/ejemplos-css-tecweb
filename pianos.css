@@ -2,9 +2,16 @@ body{
     background-color: white;
 }
 
-.TRow{
+td{
+    width: 500px;
+    height: 500px;
+}
+
+.TR{
     font-family: Arial, Helvetica, sans-serif;
     color: #3e64ff;
-    border: 2px;
-    border-bottom: #3e64ff;
+    border-bottom: 1px #3e64ff solid;
+    text-align: left;
+    height: 15px;
 }
+
