@@ -1,0 +1,23 @@
+body{
+    background-color: #7FB069;
+}
+
+h1,h2{
+    text-align: center;
+    color: #ECFEAA;
+
+}
+
+span{
+    background-color: #E2DE84;
+    border: 1px solid #80ff72;
+    padding:20px;
+}
+
+.caja-bloque{
+    display: block;
+}
+
+.caja-bloque-enlinea{
+    display: inline-block;
+}
