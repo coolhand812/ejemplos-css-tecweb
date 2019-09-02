@@ -5,4 +5,6 @@ body{
 .TRow{
     font-family: Arial, Helvetica, sans-serif;
     color: #3e64ff;
+    border: 2px;
+    border-bottom: #3e64ff;
 }
