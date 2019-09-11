@@ -1,0 +1,25 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+article{
+    background-color: #e71d36;
+}
+
+aside{
+    background-color: #f46036;
+}
+
+footer{
+    background-color: #c5d86d;
+}
+
+h2{
+    font-weight: bold;
+}
+
+header{
+    background-color: #1b998b;
+    padding: 20px;
+}
+
